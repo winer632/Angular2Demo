@@ -16,13 +16,13 @@
 建议使用.editorconfig统一编辑器配置，sublime text需安装相关插件支持。参考http://editorconfig.org/。
 
 
-## 使用方法
+## 项目一：angular2-quickstart
 
 ``` bash
 git clone https://github.com/miaoyaoyao/Angular2Demo.git
 
-// 切换到该项目下
-cd Angular2Demo/
+// 切换相应目录下如:angular2-quickstart
+cd Angular2Demo/angular2-quickstart
 
 // 由于npm install 太慢，国内建议使用淘宝的cnpm,即cnpm install
 npm install 
